@@ -1,0 +1,9 @@
+[submodule "Service-registry"]
+	path = Service-registry
+	url = https://github.com/ITS-2130-ECA-HDSE-71-72/Capstone-Project-Platform-Service-Registry.git
+[submodule "Config-server"]
+	path = Config-server
+	url = https://github.com/ITS-2130-ECA-HDSE-71-72/Capstone-Project-Platform-Config-Server.git
+[submodule "API-gateway"]
+	path = API-gateway
+	url = https://github.com/ITS-2130-ECA-HDSE-71-72/Capstone-Project-Platform-Api-Gateway.git
